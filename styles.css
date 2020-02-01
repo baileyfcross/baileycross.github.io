@@ -74,6 +74,10 @@ p {
   letter-spacing: 0.1em;
 }
 
+#course-work {
+  text-align: left;
+}
+
 #header {
   background-color: #1abcdc;
   height: 150px;
