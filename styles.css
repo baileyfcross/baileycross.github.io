@@ -132,3 +132,18 @@ p {
   color: white;
   padding-left: 60px;
 }
+
+#heading {
+  text-align: center;
+}
+#education{
+  text-align: left;
+}
+.expected{
+  display: inline;
+  float: right;
+}
+
+#resumeID {
+    padding: 50px;
+}
